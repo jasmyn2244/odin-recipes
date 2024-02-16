@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(0, 70, 63);
+  font-family: sans-serif;
+  color: beige;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+a {
+  color: inherit;
+}
